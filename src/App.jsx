@@ -1,12 +1,12 @@
-import logo from "./logo.svg";
-import "./App.css";
-import { RoutesSection } from "./routes/RoutesSection";
+import logo from './logo.svg';
+import './App.css';
+import { RoutesSection } from './routes/RoutesSection';
 function App() {
-	return (
-		<div className="App">
-			<RoutesSection />
-		</div>
-	);
+  return (
+    <div className="App">
+      <RoutesSection />
+    </div>
+  );
 }
 
 export default App;
